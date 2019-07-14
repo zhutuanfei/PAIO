@@ -1,5 +1,5 @@
 # PAIO
-Improving interpolation-based synthetic minority oversampling for imbalanced data learning
+Improving interpolation-based oversampling for imbalanced data learning
 
 This project includes a source code of PAIO.  
 
